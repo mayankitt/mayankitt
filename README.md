@@ -15,7 +15,7 @@ I'm a seasoned Senior Software Engineer with a deep background in Full-Stack dev
 
 Java (Spring Boot), Python (Flask), NestJS
 
-Designing and deploying microservices using a variety of strategies, from simple one like Blue/Green to state of the art with containerization and orchestration solutions like **Docker / Kubernetes**. Handling high-volume data with **Oracle**, **PostgreSQL** **Couchbase**, **Solace** and many more.
+Designing and deploying microservices using a variety of strategies, from simple ones like Blue/Green to state of the art with containerization and orchestration solutions like **Docker / Kubernetes**. Handling high-volume data with **Oracle**, **PostgreSQL** **Couchbase**, **Solace** and many more.
 
 **Frontend Magic**
 
